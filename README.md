@@ -1,0 +1,6 @@
+# REACT QUERY 
+
+````
+npm install
+
+````
